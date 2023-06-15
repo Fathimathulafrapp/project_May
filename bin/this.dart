@@ -5,7 +5,7 @@ class example1{
   late String job;
   //formal parameters
   void show(String n,int a){
-    //example1(String n,int a) using constructor
+
     String job="teacher";
     this.name=n;
     this.age=a;

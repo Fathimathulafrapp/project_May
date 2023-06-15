@@ -1,5 +1,4 @@
-import 'multipleinheritance.dart';
-
+//constructor using this
 class example2
 {
   late String name;
@@ -10,7 +9,7 @@ class example2
   {
     print("my name is $name");
     print("my age is $age");
-    print("my job is $teacher");
+    print("my job is $job");
   }
 
 }
