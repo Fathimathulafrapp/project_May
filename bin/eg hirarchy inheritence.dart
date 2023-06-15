@@ -41,5 +41,4 @@ void main()
   print("");
   obj1.daughterdetails("amaya",20 , 8524071555);
   obj1.parentdetails("Arjun", 50, 8097654344, "Sales man");
-
 }
