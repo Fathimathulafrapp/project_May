@@ -34,6 +34,7 @@ void main()
   print("");
  obj.sondetails("sham",23 , 96852471555);
 
+
  obj.parentdetails("Arjun", 50, 8097654344, "Sales man");
   print("");
  var obj1=daughter();
